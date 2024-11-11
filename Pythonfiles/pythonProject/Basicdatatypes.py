@@ -1,0 +1,6 @@
+print(type(1))
+print(type(1.00))
+print(1+2)
+print(2/1)
+print(1+1.2)
+print(type(1+1.2))
